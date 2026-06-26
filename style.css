@@ -31,3 +31,18 @@ body {
 
     margin-bottom: 70px;
 }
+.intro {
+    width: 430px;
+}
+.intro h1 {
+    font-size: 52px;
+    color: hsl(300, 43%, 22%);
+    line-height: 0.9;
+
+    margin-bottom: 20px;
+}
+.intro p {
+    color: hsl(303, 10%, 53%);
+    font-size: 18px;
+    line-height: 1.5;
+}
