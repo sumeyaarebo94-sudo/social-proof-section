@@ -19,3 +19,8 @@ body {
         top left,
         bottom right;
 }
+.container {
+    width: 1110px;
+    max-width: 90%;
+    margin: 80px auto;
+}
