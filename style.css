@@ -51,3 +51,13 @@ body {
     flex-direction:column;
     gap:20px;
 }
+.rating{
+    display:flex;
+    align-items:center;
+
+    background:hsl(300,24%,96%);
+
+    padding:20px;
+
+    border-radius:8px;
+}
