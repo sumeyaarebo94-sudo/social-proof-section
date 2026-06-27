@@ -67,3 +67,11 @@ body {
     display:flex;
     gap:30px;
 }
+.card{
+    background:hsl(300,43%,22%);
+    color:white;
+
+    padding:30px;
+
+    border-radius:10px;
+}
