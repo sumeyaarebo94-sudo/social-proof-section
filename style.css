@@ -46,10 +46,8 @@ body {
     font-size: 18px;
     line-height: 1.5;
 }
-.top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    margin-bottom: 70px;
+.ratings{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
 }
