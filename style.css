@@ -98,3 +98,9 @@ body {
     line-height:1.5;
     font-size:17px;
 }
+.card:nth-child(2){
+    margin-top:20px;
+}
+.card:nth-child(3){
+    margin-top:40px;
+}
