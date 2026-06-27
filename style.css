@@ -104,3 +104,13 @@ body {
 .card:nth-child(3){
     margin-top:40px;
 }
+.rating:first-child{
+    margin-right:80px;
+}
+.rating:nth-child(2){
+    margin-left:40px;
+    margin-right:40px;
+}
+.rating:nth-child(3){
+    margin-left:80px;
+}
