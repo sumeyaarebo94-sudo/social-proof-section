@@ -63,3 +63,7 @@ body {
 }.stars{
     margin-right:30px;
 }
+.reviews{
+    display:flex;
+    gap:30px;
+}
