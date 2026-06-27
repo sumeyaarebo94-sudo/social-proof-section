@@ -94,3 +94,7 @@ body {
     color:hsl(333,80%,67%);
     font-size:17px;
 }
+.review{
+    line-height:1.5;
+    font-size:17px;
+}
