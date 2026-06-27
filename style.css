@@ -22,14 +22,13 @@ body {
 .container{
     width:1100px;
     max-width:90%;
-    margin:80px auto;
+    margin:40px auto;
 }
-.top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    margin-bottom: 70px;
+.top{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:40px;
 }
 .intro {
     width: 445px;
@@ -129,5 +128,5 @@ body {
 .attribution{
     text-align:center;
     font-size:14px;
-    margin-top:40px;
+    margin-top:20px;
 }
